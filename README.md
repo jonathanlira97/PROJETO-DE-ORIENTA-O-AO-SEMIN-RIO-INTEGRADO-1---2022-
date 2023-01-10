@@ -49,10 +49,11 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
 **DESCRIÇÃO E APRESENTAÇÃO DAS INTERFACES GRÁFICAS PARA O APLICATIVO (Jonathan)**:
     Esse trabalho consiste em apresentar capturas do protótipo das interfaces gráficas, e suas respectivas características para assim informar sobre as funcionalidades     e fluxos para o aplicativo que será desenvolvido e utilizado durante o desenvolvimento do Projeto Integrador como um todo.
 
-    Interface -1: Tela Inicial.
+    ###Interface -1: Tela Inicial.
     Nesta tela, temos o início de toda a integração do serviço a ser disponibilizado. Com a logomarca que simboliza a característica da natureza do serviço prestado no     uso do transporte público intermunicipal. Nesta tela tem 2 opções: 1ª o de “Cadastrar usuário” pelo primeiro acesso, e 2ª opção – “Entrar” com seu cadastro pela       primeira vez, onde vai poder entrar diretamente com o uso dos dados usados para realizar seu cadastro como usuário que forma utilizados na opção anteriormente.
 
-    Interface 2_ Menu de cadastro usuário..png
+    ![Tela Inicial acesso] (Interface 2_ Menu de cadastro usuário..png)
+    
     
     
    
