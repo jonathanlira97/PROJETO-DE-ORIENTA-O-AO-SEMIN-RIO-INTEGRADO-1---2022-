@@ -37,11 +37,12 @@ A interface com as "Proximidade do Ônibus", é a tela derivada do campo respect
 ![Tela de controle de proximidade](Interface 7 - proximidade do Ônibus - GPS..png)
 
 ### Interface 8: Tela Menu com as opções de serviço do usuário (jonathan)
-A interface "Informações do serviço oferecido", é a Tela Menu, destinado a informações gerais da linha/frota de transporte, nela o usuário poderá consultar por meio do campo de seleção de informações: a quantidade usuários, histórico de viagens e a situação do usuário, como uma espécie de banco de dados do uso do aplicativo, e atualizar todos as informações quando assim precisar.
+A interface "Informações do Serviço Oferecido", é a Tela Menu, destinado a informações gerais da linha/frota de transporte, nela o usuário poderá consultar por meio do campo de seleção de informações: a quantidade usuários, histórico de viagens e a situação do usuário, como uma espécie de banco de dados do uso do aplicativo, e atualizar todos as informações quando assim precisar.
 
 ![Tela de uso do serviço pelo usuário](Interface 8_ Tela Menu com as opções de serviço usuário..png)
 
 ### Interface 9: Informações gerais do histórico de viagem do usuário (Jonathan)
+A interface com a "Informações do Histórico de Vigens do Usuário", é a tela derivada da Interface-8 - tela com as iformações de serviço oferecido, essa interface é aonde o usuário poderá consultar suas últimas viagens realizadas com a data, hora e o nome da frota em que ele usufruiu anteriormente. 
 
 ![Tela do histórico de viagens realizadas](Interface 9_ Tela Menu com as opções de serviço usuário..png)
 
