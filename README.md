@@ -28,8 +28,8 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
     Ensaio da apresentação :p2, after c3, 18d
     Apresentação e entrega  :milestone, after p1, 1d
     
-   ``` 
- O cronograma pode prever os seguintes tópicos sugeridos:
+``` 
+## O cronograma pode prever os seguintes tópicos sugeridos:
 - Levantamento da literatura: quanto tempo você demora para ler e organizar as referências bibliográficas? 
 - Escolha do instrumento e preparação para coleta de dados: quanto tempo será gasto para escolher os instrumentos que serão usados na pesquisa? (Questionários, entrevistas e escalas, por exemplo). 
 - Levantamento de dados: quanto tempo é preciso para levantar os dados que serão usados no estudo? 
@@ -42,11 +42,7 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
 - Defesa: Quando o trabalho será apresentado para a banca? 
 
 
-
-```mermaid
-
-
-**DESCRIÇÃO E APRESENTAÇÃO DAS INTERFACES GRÁFICAS PARA O APLICATIVO (Jonathan)**
+## DESCRIÇÃO E APRESENTAÇÃO DAS INTERFACES GRÁFICAS PARA O APLICATIVO (Jonathan)
     Esse trabalho consiste em apresentar capturas do protótipo das interfaces gráficas, e suas respectivas características para assim informar sobre as funcionalidades     e fluxos para o aplicativo que será desenvolvido e utilizado durante o desenvolvimento do Projeto Integrador como um todo.
 
     ###Interface 1: Tela Inicial (jonathan)
@@ -56,7 +52,7 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
     
     
     ###Interface 2: Menu de Login (jonathan)
-    Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
+    Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor     captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
    
    
     ###Interface 3: Menu de Cadastro (jonathan)
