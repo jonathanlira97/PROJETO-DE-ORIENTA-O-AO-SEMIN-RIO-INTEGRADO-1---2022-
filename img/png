@@ -42,7 +42,7 @@ A interface "Informações do Serviço Oferecido", é a Tela Menu, destinado a i
 ![Tela de uso do serviço pelo usuário](Interface 8_ Tela Menu com as opções de serviço usuário..png)
 
 ### Interface 9: Informações gerais do histórico de viagem do usuário (Jonathan)
-A interface com a "Informações do Histórico de Vigens do Usuário", é a tela derivada da Interface-8 - tela com as iformações de serviço oferecido, essa interface é aonde o usuário poderá consultar suas últimas viagens realizadas com a data, hora e o nome da frota em que ele usufruiu anteriormente. 
+A interface com a "Informações do Histórico de Vigens do Usuário", é a tela derivada da Interface-8 - tela com as Informações de Serviço Oferecido, essa interface é aonde o usuário poderá consultar suas últimas viagens realizadas com a data, hora e o nome da frota em que ele usufruiu anteriormente. 
 
 ![Tela do histórico de viagens realizadas](Interface 9_ Tela Menu com as opções de serviço usuário..png)
 
