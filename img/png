@@ -4,42 +4,42 @@
     ###Interface 1: Tela Inicial (jonathan)
     Nesta tela, temos o início de toda a integração do serviço a ser disponibilizado. Com a logomarca que simboliza a característica da natureza do serviço prestado no     uso do transporte público intermunicipal. Nesta tela tem 2 opções: 1ª o de “Cadastrar usuário” pelo primeiro acesso, e 2ª opção – “Entrar” com seu cadastro pela       primeira vez, onde vai poder entrar diretamente com o uso dos dados usados para realizar seu cadastro como usuário que forma utilizados na opção anteriormente.
 
-    ![Tela Inicial](tela inical de acesso ao sistema.png)
+    !.[Tela Inicial].(tela inical de acesso ao sistema.png)
     
     ###Interface 2: Menu de Login (jonathan)
     Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
     
-    ![Tela de Login](tela do app (step 1).png)
+    !.[Tela de Login].(tela do app (step 1).png)
     
     ###Interface 3: Menu de Cadastro (jonathan)
     Na interface destinada ao menu cadastramento do usuário ele tem seu primeiro acesso, após a Tela Inicial. Aqui possui 3 campos de preenchimento de dados pessoais:     nome do usuário, Email, senha a ser criad, e em cada um desses campos com o receio (leitor captador de voz do software) para manter acessibilidade especial. Após       essa tela ele será destinado a tela Menu -4 com as opções de serviço.
     
-    ![Tela de Cadastro](Interface 2_ Menu de cadastro usuário..png)
+    !.[Tela de Cadastro].(Interface 2_ Menu de cadastro usuário..png)
     
     ###Interface 4: Tela Menu com as opções de serviço do usuário (jonathan)
     
-    ![Tela de disponibilização de serviço](tela do app (step 1) (1).png)
+    !.[Tela de disponibilização de serviço].(tela do app (step 1) (1).png)
     
     ###Interface 5: Tela do Serviço pelo GPS ao Usuário (jonathan)
     
-    ![Tela de serviço pelo GPS](tela do app (step 1) (2).png)
+    !.[Tela de serviço pelo GPS].(tela do app (step 1) (2).png)
    
     ###Interface 6: Tela de seleção de linhas e frotas - ônibus (jonathan)
     
-    ![Tela de seleção de linhas e frotas](tela 06 do app - de seleção de frotas.png)
+    !.[Tela de seleção de linhas e frotas].(tela 06 do app - de seleção de frotas.png)
     
     
     ###Interface 7: Tela de proximidade do ônibus (jonathan)
     
-    ![Tela de controle de proximidade](Interface 7 - proximidade do Ônibus - GPS..png)
+    !.[Tela de controle de proximidade].(Interface 7 - proximidade do Ônibus - GPS..png)
     
     ###Interface 8: Tela Menu com as opções de serviço do usuário (jonathan)
     
-    ![Tela de uso do serviço pelo usuário] (Interface 8_ Tela Menu com as opções de serviço usuário..png)
+    !.[Tela de uso do serviço pelo usuário].(Interface 8_ Tela Menu com as opções de serviço usuário..png)
     
     ###Interface 9: Informações gerais do histórico de viagem do usuário (Jonathan)
     
-    ![Tela do histórico de viagens realizadas] (Interface 9_ Tela Menu com as opções de serviço usuário..png)
+    !.[Tela do histórico de viagens realizadas].(Interface 9_ Tela Menu com as opções de serviço usuário..png)
    
    
     
