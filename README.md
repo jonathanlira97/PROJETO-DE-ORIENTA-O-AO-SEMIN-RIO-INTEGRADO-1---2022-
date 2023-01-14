@@ -29,17 +29,18 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
     Apresentação e entrega  :milestone, after p1, 1d
     
 ``` 
+
 ## O cronograma pode prever os seguintes tópicos sugeridos:
-    - Levantamento da literatura: quanto tempo você demora para ler e organizar as referências bibliográficas? 
-    - Escolha do instrumento e preparação para coleta de dados: quanto tempo será gasto para escolher os instrumentos que serão usados na pesquisa? (Questionários,         entrevistas e escalas, por exemplo). 
-    - Levantamento de dados: quanto tempo é preciso para levantar os dados que serão usados no estudo? 
-    - Escrita da parte teórica: quanto tempo será gasto para escrever o relatório? 
-    - Análise dos dados: qual é o tempo necessário para organizar os dados coletados em planilhas e tabulá-los? 
-    - Discussão dos resultados: quanto tempo você vai gastar para articular os seus dados com os dados de outros autores que pesquisaram as mesmas variáveis? 
-    - Elaboração da conclusão e referências: quanto tempo é necessário para escrever as considerações finais e colocar a lista de referências bibliográficas nas normas     da ABNT? 
-    - Ajustes finais: de quanto tempo você precisa para revisar a formatação? 
-    - Criação da apresentação: qual é o tempo necessário para elaborar os slides e ensaiar a apresentação? 
-    - Defesa: Quando o trabalho será apresentado para a banca? 
+- Levantamento da literatura: quanto tempo você demora para ler e organizar as referências bibliográficas? 
+- Escolha do instrumento e preparação para coleta de dados: quanto tempo será gasto para escolher os instrumentos que serão usados na pesquisa? (Questionários,         entrevistas e escalas, por exemplo). 
+- Levantamento de dados: quanto tempo é preciso para levantar os dados que serão usados no estudo? 
+- Escrita da parte teórica: quanto tempo será gasto para escrever o relatório? 
+- Análise dos dados: qual é o tempo necessário para organizar os dados coletados em planilhas e tabulá-los? 
+- Discussão dos resultados: quanto tempo você vai gastar para articular os seus dados com os dados de outros autores que pesquisaram as mesmas variáveis? 
+- Elaboração da conclusão e referências: quanto tempo é necessário para escrever as considerações finais e colocar a lista de referências bibliográficas nas normas     da ABNT? 
+- Ajustes finais: de quanto tempo você precisa para revisar a formatação? 
+- Criação da apresentação: qual é o tempo necessário para elaborar os slides e ensaiar a apresentação? 
+- Defesa: Quando o trabalho será apresentado para a banca? 
 
 
 ## DESCRIÇÃO E APRESENTAÇÃO DAS INTERFACES GRÁFICAS PARA O APLICATIVO (Jonathan)
