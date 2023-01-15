@@ -53,7 +53,7 @@ Nesta tela, temos o início de toda a integração do serviço a ser disponibili
 ![Tela Inicial](tela inicial de acesso ao sistema.png)
 
 ### Interface 2: Menu de Login (jonathan)
-Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
+Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uso do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
 
 ![Tela de Login](tela do app (step 1).png)
 
