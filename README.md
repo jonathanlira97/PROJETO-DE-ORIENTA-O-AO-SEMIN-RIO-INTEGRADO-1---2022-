@@ -52,17 +52,31 @@ Nesta tela, temos o início de toda a integração do serviço a ser disponibili
 
 ![Tela Inicial](tela inicial de acesso ao sistema.png)
 
-    
 ### Interface 2: Menu de Login (jonathan)
 Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor     captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
 
 ![Tela de Login](tela do app (step 1).png)
 
-
 ### Interface 3: Menu de Cadastro (jonathan)
 Na interface destinada ao menu cadastramento do usuário ele tem seu primeiro acesso, após a Tela Inicial. Aqui possui 3 campos de preenchimento de dados pessoais:     nome do usuário, Email, senha a ser criad, e em cada um desses campos com o receio (leitor captador de voz do software) para manter acessibilidade especial. Após       essa tela ele será destinado a tela Menu -4 com as opções de serviço.
 
 ![Tela Inicial](Interface 2_ Menu de cadastro usuário.png)
+
+### Interface 4: Tela Menu com as opções de serviço do usuário (jonathan)
+Após o usuário ter realizado a autenticação dos seus dados na Tela Menu de Login, ou efetuado seu primeiro acesso na tela de menu de cadastro. Ele será direcionado automaticamente para a "Tela Menu com as opções de Usuário", aonde por meio do recesso do recurso do leitor cpatador de voz disponibilizado, selecionar de sua preferência: a região. a linha ou frota ônibus e a proximidade com a parada em que ele se encontra, com seus respectivos campos de preenchimento, ou com a filtragem de lista de informações.
+
+![Tela de disponibilização de serviço](tela do app (step 1) (1).png)
+
+### Interface 5: Tela do Serviço pelo GPS ao Usuário (jonathan)
+A interface da "Região de Percurso do Uusário", é a tela derivada do campo de seleção região que pertence a Interface 4, nesta tela, além dos recursos de captura de voz e leitor de informações, o usuário vai contar com o recurso já integrado do GPS, para escolher a região em que ele se encontra no momento do embarque de sua viagem (Ponto de Ônibus).
+
+![Tela de serviço pelo GPS](tela do app (step 1) (2).png)
+
+
+
+
+
+
 
 
     
