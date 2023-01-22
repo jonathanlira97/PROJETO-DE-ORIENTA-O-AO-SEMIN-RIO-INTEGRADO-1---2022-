@@ -72,6 +72,9 @@ A interface da "Região de Percurso do Uusário", é a tela derivada do campo de
 
 ![Tela de serviço pelo GPS](tela do app (step 1) (2).png)
 
+### Interface 6: Imagem ilustrativa sobre o meio ambiente.
+
+![tela sobre o pensamento da natureza]Psicología_Ambiental.jpg
 
 
 
