@@ -72,7 +72,26 @@ A interface da "Região de Percurso do Uusário", é a tela derivada do campo de
 
 ![Tela de serviço pelo GPS](tela_do_app_(step.5).jpg)
 
-### Interface 6: Imagem ilustrativa sobre o meio ambiente.
+### Interface 6: Tela de Seleção de Linha/frota de ônibus usuário.
+
+
+![Tela de seleção de serviço](tela_do_app_(step.6).jpg)
+
+### Interface 7: Tela de visualização da proximidade do transporte.
+
+
+![tela de visualização distenciamento para o transporte](tela_do_app_(step.7).jpg)
+
+#### Interface 8: Informações Gerais Linha/ônibus com o serviço oferecido pelo usuário.
+
+
+![Tela do histórico do serviço utilizado pelo usuário](tela_do_app_(step.8).jpg)
+
+
+### Interface 9: Exibição de informações do histórico de viagens do usuário.
+
+![Tela de exibição do histórico](Tela.9_de_exibição_de_histórico_de_viagens_feitas..jpg)
+
 
 ![tela sobre o pensamento da natureza](Psicología_Ambiental.jpg)
 
