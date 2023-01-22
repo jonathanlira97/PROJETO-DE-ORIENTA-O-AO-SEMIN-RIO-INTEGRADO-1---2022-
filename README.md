@@ -50,7 +50,7 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
 ### Interface 1: Tela Inicial (jonathan)
 Nesta tela, temos o início de toda a integração do serviço a ser disponibilizado. Com a logomarca que simboliza a característica da natureza do serviço prestado no     uso do transporte público intermunicipal. Nesta tela tem 2 opções: 1ª o de “Cadastrar usuário” pelo primeiro acesso, e 2ª opção – “Entrar” com seu cadastro pela       primeira vez, onde vai poder entrar diretamente com o uso dos dados usados para realizar seu cadastro como usuário que forma utilizados na opção anteriormente.
 
-![Tela Inicial](tela inical de acesso ao sistema.1.jpg)
+![Tela Inicial](tela_inical_de_acesso_ao_sistema.1.jpg)
 
 ### Interface 2: Menu de Login (jonathan)
 Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uso do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
