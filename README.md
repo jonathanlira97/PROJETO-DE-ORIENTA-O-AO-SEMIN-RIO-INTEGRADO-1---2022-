@@ -21,7 +21,7 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
     Criação do protótipo de telas  :  c2, after a2, 14d
     Aplicativo final   :     c3, after a3, 21d
     section Prototipação
-    Criação de telas do sistema     :    c3, 2022-12-06, 21d
+    Criação de telas do sistema     :    c3, 2023-12-31, 28d
     Criação do protótipo      :c3,     after c2, 14d
     section Defesa
     Preparação dos slides :p1, after c3, 14d
