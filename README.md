@@ -73,16 +73,19 @@ A interface da "Região de Percurso do Uusário", é a tela derivada do campo de
 ![Tela de serviço pelo GPS](tela_do_app_(step.5).jpg)
 
 ### Interface 6: Tela de Seleção de Linha/frota de ônibus usuário.
+A interface da "seleção de frotas/linhas", é a tela do campo respectivo da Interface-4 - tela com as opções de serviço. Onde por sua vez o usuário poderá selecionar a quantidade de frotas/linhas em que queira cadastrar para o banco de daados da integração do software com o órgão de controle - prefeitua ou posteiormente ele vai poder alterar, caso ele mude de lugar por motivo pessoal ou de trabalho, estudo.
 
 
 ![Tela de seleção de serviço](tela_do_app_(step.6).jpg)
 
 ### Interface 7: Tela de visualização da proximidade do transporte.
+A interface com da "proximidade do ônibus", é a tela derivada do campo respectivo da Interface-4 - tela com as opções de serviço, onde por sua vez o usuário poderá saber quando estiver no ponto de ônibus, a distância em que sua frota ou linha se encontra em relação aonde ele está atualmente(ponto de ônibus), com o suporte do recurso já integrado - GPS.
 
 
 ![tela de visualização distenciamento para o transporte](tela_do_app_(step.7).jpg)
 
 #### Interface 8: Informações Gerais Linha/ônibus com o serviço oferecido pelo usuário.
+A interface com as "informações do serviço oferecido", é a Tela de Menu, destinado a informações gerais da linha/frota do transporte, nela o usuário poderá consultar por meio dos campos de seleção de informações: a quantidade usuários, histórico de viagens e a situação do usuário, como uma espécie de banco de dados do uso do aplicativo, e atualizar todas as informações quando assim precisar. 
 
 
 ![Tela do histórico do serviço utilizado pelo usuário](tela_do_app_(step.8).jpg)
@@ -93,7 +96,6 @@ A interface da "Região de Percurso do Uusário", é a tela derivada do campo de
 ![Tela de exibição do histórico](Tela.9_de_exibição_de_histórico_de_viagens_feitas..jpg)
 
 
-![tela sobre o pensamento da natureza](Psicología_Ambiental.jpg)
 
 
 
