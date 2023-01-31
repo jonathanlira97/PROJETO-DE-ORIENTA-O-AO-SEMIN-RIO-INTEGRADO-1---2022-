@@ -96,6 +96,13 @@ A interface com as "informações do serviço oferecido", é a Tela de Menu, des
 ![Tela de exibição do histórico](Tela.9_de_exibição_de_histórico_de_viagens_feitas..jpg)
 
 
+## Diagrama de Componentes: 
+
+
+
+
+
+
 
 
 
