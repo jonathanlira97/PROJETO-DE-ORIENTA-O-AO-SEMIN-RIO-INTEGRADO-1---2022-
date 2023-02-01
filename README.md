@@ -100,7 +100,7 @@ A interface com as "informações do serviço oferecido", é a Tela de Menu, des
 
 ### O Diagrama de Componentes numa definição técnica, defini a composição dos componentes e artefatos no sistema. Assim, no nosso diagrama de implementação deste Seminário de Orientação ao Proj. Integrador -1, mostra os componentes e artefatos em relação ao local em que eles estão sendo utilizados no sistema implementado no caso do Projeto "Connect SoundMobile". 
 
-Podemos visualizar alguns compontes utilizados como o Banco de Dados, que por meio de um sistema de Cadastro e Login, ter a possibilidade de guardar esses dados de forma segura, mais objetiva e autêntica dos seus usuários, aliado ao ambiente da aplicação numa IDE, no caso é o JavaScript desenvolvido no FrameWork do FRONT-END ANGULAR, seria já mais um componente do Diagrama que faz parte do Diagrama, por fim outro componente é a lista/elementos de produto que sria os Hardwares utilizados para intergrar a funcionalidade ao software importante do projeto da ideia principal.
+Podemos visualizar alguns compontes utilizados como o Banco de Dados, que por meio de um sistema de Cadastro e Login, ter a possibilidade de guardar esses dados de forma segura, mais objetiva e autêntica dos seus usuários, aliado ao ambiente da aplicação numa IDE, no caso é o JavaScript desenvolvido no FrameWork do FRONT-END ANGULAR, seria já mais um componente do Diagrama que faz parte do Diagrama, por fim outro componente é a lista/elementos de produto que sria os Hardwares utilizados para intergrar a funcionalidade ao software importante da ideia principal do projeto desenvolvido.
 
 ![Imagem de exibição do Diagrama de Componentes](Modelo_Diagrama_Componentes/MODELO_DE_DIAGRAMA_DE_COMPONENTES_FORMATO.UML.png)
 
