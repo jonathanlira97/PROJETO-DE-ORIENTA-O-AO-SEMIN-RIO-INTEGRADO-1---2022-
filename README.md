@@ -97,7 +97,8 @@ A interface com as "informações do serviço oferecido", é a Tela de Menu, des
 
 
 ## Diagrama de Componentes: 
-img/MODELO DE DIAGRAMA DE COMPONENTES - FORMATO UML (1).png
+
+MODELO_DE_DIAGRAMA_DE_COMPONENTES_FORMATO
 
 
 
