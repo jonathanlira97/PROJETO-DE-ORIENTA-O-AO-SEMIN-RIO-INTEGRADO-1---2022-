@@ -107,6 +107,8 @@ Podemos visualizar alguns compontes utilizados como o Banco de Dados, que por me
 
 ## Modelo pré-definido do Modelo Conceitual em Banco de Dados:
 
+Podemos definir de forma bem objetiva o Modelo Conceitual tem como uma das principais funcionalidades é de capturar os requesitos essenciais de informação e regras de negócio sob o ponto de vista do negócio para isto, torna-se indispensável o entendimento e a correta aplicação os mecanismo de abstração, utilizados na modelagem conceitual de dados ,de modo a garantir uma visão geral do projeto desenvolvido para isto fornecendo elementos estruturais de um Modelo Conceitual de Dados como por exemplo: Entidades, Relacionamentos, Grau dos Relacionamentos e a cardinalidade com a associação dos mecanismos para interligar a uma ou várias entidades. No caso da disciplina do Projeto Integrador utilzei 5 modalidades de entidades cada uma com um relacionamento específico entre suas partes(mencionando uma determinada ação na forma como o sistema de Bnaco de Daos seria implementado).  
+
 
 ![Modelo conceitual em Banco de Dados.Br.Modelo.Web](img/Print_de_tela_do_Modelo_conceitual.BD.PNG)
 
