@@ -105,7 +105,10 @@ Podemos visualizar alguns compontes utilizados como o Banco de Dados, que por me
 ![Imagem de exibição do Diagrama de Componentes](Modelo_Diagrama_Componentes/MODELO_DE_DIAGRAMA_DE_COMPONENTES_FORMATO.UML.png)
 
 
+## Modelo pré-definido do Modelo Conceitual em Banco de Dados:
 
+
+![Esquema de modelo conceitual em Bd](PRINT_de_tela_do_Modelo_conceitualBD.PNG)
 
 
 
