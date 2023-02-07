@@ -108,8 +108,7 @@ Podemos visualizar alguns compontes utilizados como o Banco de Dados, que por me
 ## Modelo pré-definido do Modelo Conceitual em Banco de Dados:
 
 
-![Esquema de modelo conceitual em Bd](PRINT_de_tela_do_Modelo_conceitualBD.PNG)
-
+![Modelo conceitual em Banco de Dados.Br.Modelo.Web](img/Print_de_tela_do_Modelo_conceitual.BD.PNG)
 
 
 
